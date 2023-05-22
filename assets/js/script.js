@@ -1,4 +1,17 @@
 // CODING QUIZ //
+// variable declaration //
+// buttons //
+const leaderboardBtn = document.getElementById("Leaderboard-btn");
+const aBtn = document.getElementById("AnswerA-btn");
+const bBtn = document.getElementById("AnswerB-btn");
+const cBtn = document.getElementById("AnswerC-btn");
+const dBtn = document.getElementById("AnswerD-btn");
+const initialsBtn = document.getElementById("Initials-btn");
+const returnBtn = document.getElementById("Return-btn");
+const clearBtn = document.getElementById("Clear-btn");
+
+
+
 // 1. Create a start button
 
 
